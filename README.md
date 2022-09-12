@@ -10,9 +10,6 @@ Hello visitor, My name is Emincan I'm 18 years old and living in Turkey here is 
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing products.
-- 💼 &nbsp; Working as a Web Developer.
-- 🌱 &nbsp; Learning more about UI & UX Design and Social Media Management.
 
 
 
