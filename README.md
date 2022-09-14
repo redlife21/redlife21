@@ -77,7 +77,7 @@
 <a href="https://instagram.com/emincanunl" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/user/." target="_blank">
+<!--<a href="https://www.youtube.com/user/." target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>
 <a href="https://medium.com/." target="_blank">
@@ -94,7 +94,7 @@
 </a>
 <a href="https://gitlab.com/." target="_blank">
 <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
-</a>  
+</a>  -->
 </div>  
   
 
