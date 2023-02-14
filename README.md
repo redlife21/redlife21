@@ -6,7 +6,7 @@
 ### <div align="center">I'm RedLife, a software developer 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on Binance Bot  
+- 🔭 I’m currently working on Deep Learning
   
 
 - 🌱 I’m currently learning Python  
