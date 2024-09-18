@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm RedLife</h1>
+<h1 align="center">Hi 👋, I'm Emincan</h1>
 <h3 align="center">Junior Full Stack Developer</h3>
 
 <h3 align="left">Languages and Tools:</h3>
